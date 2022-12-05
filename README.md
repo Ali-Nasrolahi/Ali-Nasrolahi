@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">C and C++ Developer</h3>
 
 - 🌱 I’m currently learning **Kernel Development and Security**
