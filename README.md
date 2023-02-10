@@ -21,8 +21,6 @@
 
 ## Stats
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasrolahi&show_icons=true&theme=dracula&locale=en" alt="ali-nasrolahi" /></p>
-
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasrolahi&theme=dark" alt="ali-nasrolahi" /></p>
 
 [![@zephyr's Holopin board](https://holopin.me/zephyr)](https://holopin.io/@zephyr)
