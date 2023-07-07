@@ -4,4 +4,4 @@
 My major focus is on to learn more about
         <b>Embedded System design ,Kernel development and Networking.</b>
 
-Connect with me on my Linkedin [@ali-nasrolahi](https://www.linkedin.com/in/ali-nasrolahi/) or email me at :email: *A.Nasrolahi01@gmail.com*.
+Connect with me on my Linkedin [@ali-nasrolahi](https://www.linkedin.com/in/ali-nasrolahi/) or email me at **A.Nasrolahi01@gmail.com**.
